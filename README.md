@@ -1,4 +1,4 @@
-NFT Studio was created by me - an indie developer under the name of 'StrangeWays'. It was created to make the creation of NFT collections free and accessible to all.
+NFT Studio was created by me - an indie developer - under the name of 'StrangeWays'. It was created to make the creation of NFT collections free and accessible to all.
 Screenshots further below.
 
 Features:
