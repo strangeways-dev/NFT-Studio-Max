@@ -5,6 +5,9 @@ Screenshots further below.
 StrangeWays Discord:
 https://discord.com/invite/pS3qhWBy9f
 
+\
+\
+\
 Features:
 ```
 Unlimited collection size
