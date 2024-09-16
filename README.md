@@ -29,3 +29,13 @@ Generate in batches (if you don't like some of the images you can delete them po
 
 ![Book logo](/docs/assets/images/Screenshot-1.png)
 ![Book logo](/docs/assets/images/Screenshot-2.png)
+![Book logo](/docs/assets/images/Screenshot-3.png)
+![Book logo](/docs/assets/images/Screenshot-4.png)
+![Book logo](/docs/assets/images/Screenshot-5.png)
+![Book logo](/docs/assets/images/Screenshot-6.png)
+![Book logo](/docs/assets/images/Screenshot-7.png)
+![Book logo](/docs/assets/images/Screenshot-8.png)
+![Book logo](/docs/assets/images/Screenshot-9.png)
+![Book logo](/docs/assets/images/Screenshot-10.png)
+![Book logo](/docs/assets/images/Screenshot.11.png)
+![Book logo](/docs/assets/images/Screenshot-12.png)
