@@ -39,3 +39,5 @@ Generate in batches (if you don't like some of the images you can delete them po
 ![Book logo](/docs/assets/images/Screenshot-10.png)
 ![Book logo](/docs/assets/images/Screenshot.11.png)
 ![Book logo](/docs/assets/images/Screenshot-12.png)
+![Book logo](/docs/assets/images/Screenshot-13.png)
+![Book logo](/docs/assets/images/Screenshot-14.png)
