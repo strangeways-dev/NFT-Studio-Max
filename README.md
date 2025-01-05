@@ -5,6 +5,11 @@ Screenshots further below.
 StrangeWays Discord:
 https://discord.com/invite/pS3qhWBy9f
 
+Edited: 05/01/2025
+YouTube Tutorials (Please subscribe to help me grow)
+(And also if you're a gamer, my first game is coming soon, watch out for the new devlogs!)
+https://www.youtube.com/playlist?list=PL3q-5r-gqmsI8X96DjzuChjc48uP__py3
+
 \
 \
 \
