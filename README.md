@@ -26,7 +26,7 @@ Unlimited collections
 Unlimited traits (depends on your RAM and the memory they take)
 Uses a flowchart system with layer rarities
 Traits have rarities
-Advanced trait rules such as: Blocklists, Multi-Layer-Trait Configuration, Force Layer Traits, Max 'X' Spawns Per 'X' Generations
+Advanced trait rules such as: Blocklists, Multi-Layer-Trait Variations, Colour Variations, Force Layer Traits, Max 'X' Spawns Per 'X' Generations
 Multiple import formats: JPG. PNG & GIF
 Multiple export formats: JPG, PNG, WebP & GIF (Animated/Non-Animated)
 Set image quality
