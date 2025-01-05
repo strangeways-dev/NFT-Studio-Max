@@ -1,18 +1,24 @@
-NFT Studio was created by me - an indie developer - under the name of 'StrangeWays'.
-It was created to make the creation of NFT collections cheap and accessible to all, as of now it is completely FREE!
 Screenshots further below.
-
-StrangeWays Discord:
-https://discord.com/invite/pS3qhWBy9f
+\
+\
+NFT Studio was created by me - an indie developer - under the name of 'StrangeWays'.
+\
+It was created to make the creation of NFT collections cheap and accessible to all, as of now it is completely FREE!
 
 Edited: 05/01/2025
-YouTube Tutorials (Please subscribe to help me grow)
-(And also if you're a gamer, my first game is coming soon, watch out for the new devlogs!)
-https://www.youtube.com/playlist?list=PL3q-5r-gqmsI8X96DjzuChjc48uP__py3
+\
+StrangeWays Discord:
+https://discord.com/invite/pS3qhWBy9f
+\
+Join to stay in the loop (Also see in depth details about the new features)
 
+YouTube Tutorials:
+https://www.youtube.com/playlist?list=PL3q-5r-gqmsI8X96DjzuChjc48uP__py3
 \
+Please subscribe to help me grow
 \
-\
+And also if you're a gamer, my first game is coming soon, watch out for the new devlogs!
+
 Features:
 ```
 Unlimited collection size
